@@ -1,0 +1,25 @@
+[
+  { "id": 1, "nombre": "Pera", "categoria": "frutasYVerduras", "img": "imgs/pera.jpg", "price": 1200 },
+  { "id": 2, "nombre": "Manzana", "categoria": "frutasYVerduras", "img": "imgs/manzana.jpg", "price": 1000 },
+  { "id": 3, "nombre": "Banana", "categoria": "frutasYVerduras", "img": "imgs/banana.jpg", "price": 900 },
+
+  { "id": 4, "nombre": "Queso Cheddar", "categoria": "lacteos", "img": "imgs/cheddar.jpg", "price": 3500 },
+  { "id": 5, "nombre": "Yogurt", "categoria": "lacteos", "img": "imgs/yogurt.jpg", "price": 1500 },
+  { "id": 6, "nombre": "Manteca", "categoria": "lacteos", "img": "imgs/manteca.jpg", "price": 2800 },
+
+  { "id": 7, "nombre": "Salmón", "categoria": "carnesYPescados", "img": "imgs/salmon.jpg", "price": 8000 },
+  { "id": 8, "nombre": "Vacío", "categoria": "carnesYPescados", "img": "imgs/vacio.jpg", "price": 7000 },
+  { "id": 9, "nombre": "Peceto", "categoria": "carnesYPescados", "img": "imgs/peceto.jpg", "price": 7500 },
+
+  { "id": 10, "nombre": "Manaos de Uva", "categoria": "bebidas", "img": "imgs/manaosUva.jpg", "price": 1200 },
+  { "id": 11, "nombre": "Cerveza", "categoria": "bebidas", "img": "imgs/cerveza.jpg", "price": 2000 },
+  { "id": 12, "nombre": "Chocolatada", "categoria": "bebidas", "img": "imgs/chocolatad.jpg", "price": 1800 },
+
+  { "id": 13, "nombre": "Medialuna", "categoria": "panaderia", "img": "imgs/medialuna.jpg", "price": 500 },
+  { "id": 14, "nombre": "Chipá", "categoria": "panaderia", "img": "imgs/chipa.jpg", "price": 800 },
+  { "id": 15, "nombre": "Donas", "categoria": "panaderia", "img": "imgs/donas.jpg", "price": 1000 },
+
+  { "id": 16, "nombre": "Detergente", "categoria": "limpieza", "img": "imgs/detergente.jpg", "price": 2200 },
+  { "id": 17, "nombre": "Escoba", "categoria": "limpieza", "img": "imgs/escoba.png", "price": 3500 },
+  { "id": 18, "nombre": "Esponja", "categoria": "limpieza", "img": "imgs/esponja.jpg", "price": 700 }
+]
